@@ -30,7 +30,7 @@ eeg-tmt-classification/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-
+---
 
 Data Availability
 
