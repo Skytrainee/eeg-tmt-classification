@@ -15,8 +15,6 @@ We combine Fast Fourier Transform (FFT) and Wavelet Transform (WT) for feature e
 
 ---
 
-##  Repository Structure
-
 
 
 ---
