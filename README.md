@@ -31,7 +31,7 @@ Please contact the corresponding author for data access inquiries.
 
 ---
 
-## 📧 Contact
+##  Contact
 
 For questions, collaboration, or data requests, please contact:  
 **Shikai Liu** —  [1661687958@qq.com](mailto:1661687958@qq.com)
