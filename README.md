@@ -16,7 +16,6 @@ We combine **Fast Fourier Transform (FFT)** and **Wavelet Transform (WT)** for f
 ---
 
 ##  Repository Structure
-
 eeg-tmt-classification/
 │
 ├── data/ # (Not publicly available – requires request)
@@ -29,7 +28,6 @@ eeg-tmt-classification/
 ├── results/ # Classification results and figures
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
 ---
 
 Data Availability
